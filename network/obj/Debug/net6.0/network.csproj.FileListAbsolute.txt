@@ -1,0 +1,6 @@
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.csproj.AssemblyReference.cache
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.AssemblyInfoInputs.cache
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.AssemblyInfo.cs
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.csproj.CoreCompileInputs.cache
+C:\Users\riane\source\repos\dotnet_test\network\obj\Debug\net6.0\network.MvcApplicationPartsAssemblyInfo.cache
